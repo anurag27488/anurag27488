@@ -16,12 +16,12 @@
 
 
 <!--Intro start-->
-- 👋 Hi, I’m Vishal
-- 👀 I’m interested in Web developmemt, Mobile App development, Cloud Computing and Blockchain Applications.
-- 🌱 I’m a MERN and a Mobile App developer.
+- 👋 Hi, I’m Anurag
+- 👀 I’m an aspiring software developer.
+- 🌱 I’m a MERN developer.
 - 💞️ I’m looking to collaborate on all projects that intrigue me.
 - 💯 I use github to host anything that I believe could be worth sharing with the world.
-- 📫 How to reach me: vishalbhartdwaj2903@gmail.com
+- 📫 How to reach me:anuragt0912@gmail.com
 <!--Intro end-->
 
 
